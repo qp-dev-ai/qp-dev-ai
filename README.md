@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 
 I am an applied scientist with a background in experimental physics, physical modeling, and numerical simulation. My work increasingly focuses on scientific machine learning.
 
